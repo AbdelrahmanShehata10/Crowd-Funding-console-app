@@ -1,0 +1,19 @@
+[
+    {
+        "first_name": "ahmed",
+        "last_name": "shehata",
+        "email": "bodaah@yahoo.com",
+        "password": "123",
+        "confirm_password": "123",
+        "mobilephone": "01211004271",
+        "projects": [
+            {
+                "title": "x",
+                "details": "aa",
+                "total_target": "2000",
+                "start_time": "2",
+                "end_time": "1"
+            }
+        ]
+    }
+]
